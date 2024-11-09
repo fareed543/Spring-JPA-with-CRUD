@@ -1,7 +1,7 @@
-package com.example.springjpa.controller;
+package org.example.springjpa.controller;
 
-import com.example.springjpa.model.Employee;
-import com.example.springjpa.service.EmployeeService;
+import org.example.springjpa.model.Employee;
+import org.example.springjpa.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.example.springjpa.service;
+package org.example.springjpa.service;
 
-import com.example.springjpa.model.Employee;
-import com.example.springjpa.repository.EmployeeRepository;
+import org.example.springjpa.model.Employee;
+import org.example.springjpa.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
